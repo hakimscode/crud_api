@@ -32,6 +32,10 @@
 $ yarn install
 ```
 
+## Documentation
+
+``` http://localhost:3000/docs ```
+
 ## Running the app
 
 ```bash
